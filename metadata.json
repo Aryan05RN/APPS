@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Guess It - Rapid Fire Word Guessing",
+  "description": "A high-energy party game where you guess words based on your friends' clues. Place the phone on your forehead and tilt to play!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
